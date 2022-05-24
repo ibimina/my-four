@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-four/static/css/main.347a267b.css",
+    "main.js": "/my-four/static/js/main.481d9ce5.js",
+    "index.html": "/my-four/index.html",
+    "main.347a267b.css.map": "/my-four/static/css/main.347a267b.css.map",
+    "main.481d9ce5.js.map": "/my-four/static/js/main.481d9ce5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.347a267b.css",
+    "static/js/main.481d9ce5.js"
+  ]
+}
