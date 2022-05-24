@@ -18,9 +18,9 @@
 Create a  profile card using  React functional component
 ### Screenshot
 
-![mobile](Capture0020.png)
-![tablet](Capture0021.png)
-![desktop](Capture0019.png)
+![mobile](Capture020.png)
+![tablet](Capture021.png)
+![desktop](Capture019.png)
 
 
 ### Links
